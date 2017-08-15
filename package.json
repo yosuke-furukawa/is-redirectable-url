@@ -1,0 +1,29 @@
+{
+  "name": "is-redirectable-url",
+  "version": "1.0.0",
+  "description": "check the argument url is redirect safe or not ",
+  "main": "index.js",
+  "scripts": {
+    "test": "eater",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosuke-furukawa/is-redirectable-url.git"
+  },
+  "keywords": [
+    "redirect",
+    "url",
+    "safe"
+  ],
+  "author": "yosuke-furukawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yosuke-furukawa/is-redirectable-url/issues"
+  },
+  "homepage": "https://github.com/yosuke-furukawa/is-redirectable-url#readme",
+  "devDependencies": {
+    "eater": "^3.2.0",
+    "standard": "^10.0.3"
+  }
+}
