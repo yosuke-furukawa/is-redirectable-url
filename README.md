@@ -1,5 +1,7 @@
 # is-redirectable-url
 
+[![Build Status](https://travis-ci.org/yosuke-furukawa/is-redirectable-url.svg?branch=master)](https://travis-ci.org/yosuke-furukawa/is-redirectable-url)
+
 Check url is redirectable to avoid open redirect vulnerability.
 
 # How to use
