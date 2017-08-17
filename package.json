@@ -1,6 +1,6 @@
 {
   "name": "is-redirectable-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check the argument url is redirect safe or not ",
   "main": "index.js",
   "scripts": {
